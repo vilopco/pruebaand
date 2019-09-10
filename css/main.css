@@ -142,6 +142,7 @@ p.lead{
 	display: block;
 	text-align: center;
 	transition: all 0.3s ease-in-out;
+	cursor: pointer;
 }
 
 a.custom-btn:after {
